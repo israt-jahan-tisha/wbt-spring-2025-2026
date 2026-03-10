@@ -1,0 +1,30 @@
+* {
+    text-align: left;
+}
+
+body {
+    background-color: #FFFEF6;
+}
+
+h1 {
+    color: #25218C;
+    text-align: center;
+}
+
+h2 {
+    color: #25218C;
+    text-align: center;
+    border: 2px solid#000000;
+    cursor: pointer;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
